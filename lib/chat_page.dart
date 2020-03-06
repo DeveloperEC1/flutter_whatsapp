@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 
 class ChatPage extends StatefulWidget {
-  ChatPage({Key key, this.title}) : super(key: key);
-  final String title;
+  ChatPage({Key key, @required this.name, @required this.text})
+      : super(key: key);
+  final String name;
+  final String text;
 
   @override
   ChatPageState createState() => ChatPageState();
@@ -31,81 +33,81 @@ class ChatPageState extends State<ChatPage> {
               child: ListView(children: [
             CustomCard(
                 cross_alignment: CrossAxisAlignment.start,
-                name: "Cristiano Ronaldo",
+                name: widget.name,
                 number: "+972 50-111-1111",
                 color_text_title: Colors.blue,
                 color_background: Colors.white,
-                text: "Hello"),
+                text: widget.text),
             CustomCard(
                 cross_alignment: CrossAxisAlignment.start,
-                name: "Lionel Messi",
-                number: "+972 50-222-2222",
+                name: widget.name,
+                number: "+972 50-111-1111",
                 color_text_title: Colors.green,
                 color_background: Colors.white,
                 text: "Hello"),
             CustomCard(
                 cross_alignment: CrossAxisAlignment.start,
-                name: "Dani Carvajal",
-                number: "+972 50-333-3333",
+                name: widget.name,
+                number: "+972 50-111-1111",
                 color_text_title: Colors.yellow,
                 color_background: Colors.white,
-                text: "Hello"),
+                text: widget.text),
             CustomCard(
                 cross_alignment: CrossAxisAlignment.end,
                 name: "Elior Cohen",
                 number: "+972 50-333-2696",
                 color_text_title: Colors.red,
                 color_background: Colors.lightGreenAccent,
-                text: "Hello"),
+                text: "Hello, " + widget.name),
             CustomCard(
                 cross_alignment: CrossAxisAlignment.start,
-                name: "Sergio Busquets",
-                number: "+972 50-444-4444",
+                name: widget.name,
+                number: "+972 50-111-1111",
                 color_text_title: Colors.grey,
                 color_background: Colors.white,
-                text: "Hello"),
+                text: widget.text),
             CustomCard(
                 cross_alignment: CrossAxisAlignment.start,
-                name: "Sergio Ramos",
-                number: "+972 50-555-5555",
+                name: widget.name,
+                number: "+972 50-111-1111",
                 color_text_title: Colors.blueGrey,
                 color_background: Colors.white,
-                text: "Hello"),
+                text: widget.text),
             CustomCard(
                 cross_alignment: CrossAxisAlignment.start,
-                name: "Jordi Alba",
-                number: "+972 50-666-6666",
+                name: widget.name,
+                number: "+972 50-111-1111",
                 color_text_title: Colors.lightGreenAccent,
                 color_background: Colors.white,
-                text: "Hello"),
+                text: widget.text),
             CustomCard(
                 cross_alignment: CrossAxisAlignment.start,
-                name: "Gerard Pique",
-                number: "+972 50-777-7777",
+                name: widget.name,
+                number: "+972 50-111-1111",
                 color_text_title: Colors.redAccent,
                 color_background: Colors.white,
-                text: "Hello"),
+                text: widget.text),
             CustomCard(
                 cross_alignment: CrossAxisAlignment.start,
-                name: "Luis Suarez",
-                number: "+972 50-888-8888",
+                name: widget.name,
+                number: "+972 50-111-1111",
                 color_text_title: Colors.brown,
                 color_background: Colors.white,
-                text: "Hello"),
+                text: widget.text),
             CustomCard(
                 cross_alignment: CrossAxisAlignment.start,
-                name: "Vinicius Junior",
-                number: "+972 50-999-9999",
+                name: widget.name,
+                number: "+972 50-111-1111",
                 color_text_title: Colors.cyanAccent,
                 color_background: Colors.white,
-                text: "Hello"),
+                text: widget.text),
             CustomCard(
                 cross_alignment: CrossAxisAlignment.start,
-                name: "Toni Kroos",
-                number: "+972 50-000-0000",
+                name: widget.name,
+                number: "+972 50-111-1111",
                 color_text_title: Colors.lightBlueAccent,
                 color_background: Colors.white,
-                text: "Hello"),
+                text: widget.text),
           ]))
         ]));
   }

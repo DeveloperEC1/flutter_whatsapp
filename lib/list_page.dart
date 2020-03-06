@@ -26,92 +26,92 @@ class ListPageState extends State<ListPage> {
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
-              title: "Elior Cohen",
-              subtitle: "Short Message..."),
+              name: "Cristiano Ronaldo",
+              subtitle: "Hi, my name is Cristiano Ronaldo"),
           CustomListTile(
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
-              title: "Elior Cohen",
-              subtitle: "Short Message..."),
+              name: "Lionel Messi",
+              subtitle: "Hi, my name is Lionel Messi"),
           CustomListTile(
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
-              title: "Elior Cohen",
-              subtitle: "Short Message..."),
+              name: "Dani Carvajal",
+              subtitle: "Hi, my name is Lionel Messi"),
           CustomListTile(
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
-              title: "Elior Cohen",
-              subtitle: "Short Message..."),
+              name: "Elior Cohen",
+              subtitle: "Hi, my name is Elior Cohen"),
           CustomListTile(
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
-              title: "Elior Cohen",
-              subtitle: "Short Message..."),
+              name: "Sergio Busquets",
+              subtitle: "Hi, my name is Sergio Busquets"),
           CustomListTile(
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
-              title: "Elior Cohen",
-              subtitle: "Short Message..."),
+              name: "Sergio Ramos",
+              subtitle: "Hi, my name is Sergio Ramos"),
           CustomListTile(
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
-              title: "Elior Cohen",
-              subtitle: "Short Message..."),
+              name: "Jordi Alba",
+              subtitle: "Hi, my name is Jordi Alba"),
           CustomListTile(
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
-              title: "Elior Cohen",
-              subtitle: "Short Message..."),
+              name: "Gerard Pique",
+              subtitle: "Hi, my name is Gerard Pique"),
           CustomListTile(
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
-              title: "Elior Cohen",
-              subtitle: "Short Message..."),
+              name: "Luis Suarez",
+              subtitle: "Hi, my name is Luis Suarez"),
           CustomListTile(
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
-              title: "Elior Cohen",
-              subtitle: "Short Message..."),
+              name: "Vinicius Junior",
+              subtitle: "Hi, my name is Vinicius Junior"),
           CustomListTile(
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
-              title: "Elior Cohen",
-              subtitle: "Short Message..."),
+              name: "Elior Cohen",
+              subtitle: "Hi, my name is Toni Kroos"),
           CustomListTile(
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
-              title: "Elior Cohen",
-              subtitle: "Short Message..."),
+              name: "Thibaut Courtois",
+              subtitle: "Hi, my name is Thibaut Courtois"),
           CustomListTile(
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
-              title: "Elior Cohen",
-              subtitle: "Short Message..."),
+              name: "Karim Benzema",
+              subtitle: "Hi, my name is Karim Benzema"),
           CustomListTile(
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
-              title: "Elior Cohen",
-              subtitle: "Short Message..."),
+              name: "Gareth Bale",
+              subtitle: "Hi, my name is Gareth Bale"),
           CustomListTile(
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
-              title: "Elior Cohen",
-              subtitle: "Short Message..."),
+              name: "Francisco Alarcon",
+              subtitle: "Hi, my name is Francisco Alarcon"),
         ]));
   }
 }
@@ -121,13 +121,13 @@ class CustomListTile extends StatefulWidget {
       {Key key,
       @required this.imagePath,
       @required this.radius,
-      @required this.title,
+      @required this.name,
       @required this.subtitle})
       : super(key: key);
 
   final String imagePath;
   final double radius;
-  final String title;
+  final String name;
   final String subtitle;
 
   @override
@@ -144,15 +144,15 @@ class _CustomListTileState extends State<CustomListTile> {
         shape: ImageShapeType.Circle,
         raduis: widget.radius,
       ),
-      title: Text(widget.title),
+      title: Text(widget.name),
       subtitle: Text(widget.subtitle),
       onTap: () {
         Navigator.push(
-          context,
-          MaterialPageRoute(
-            builder: (context) => ChatPage(),
-          ),
-        );
+            context,
+            MaterialPageRoute(
+              builder: (context) =>
+                  ChatPage(name: widget.name, text: widget.subtitle),
+            ));
       },
     );
   }
