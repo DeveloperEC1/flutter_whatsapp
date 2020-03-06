@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter WhatsApp',
       theme: ThemeData(
-        primarySwatch: Colors.white,
+        primarySwatch: Colors.blue,
       ),
       home: ListPage(title: 'Flutter WhatsApp'),
     );
