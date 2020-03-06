@@ -38,7 +38,7 @@ class ChatPageState extends State<ChatPage> {
                 text: "Hello"),
             CustomCard(
                 cross_alignment: CrossAxisAlignment.start,
-                name: "Messi",
+                name: "Lionel Messi",
                 number: "+972 50-222-2222",
                 color_text_title: Colors.green,
                 color_background: Colors.white,
