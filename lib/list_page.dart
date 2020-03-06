@@ -39,7 +39,7 @@ class ListPageState extends State<ListPage> {
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
               name: "Dani Carvajal",
-              subtitle: "Hi, my name is Lionel Messi"),
+              subtitle: "Hi, my name is Dani Carvajal"),
           CustomListTile(
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
@@ -86,7 +86,7 @@ class ListPageState extends State<ListPage> {
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
-              name: "Elior Cohen",
+              name: "Toni Kroos",
               subtitle: "Hi, my name is Toni Kroos"),
           CustomListTile(
               imagePath:

@@ -42,14 +42,14 @@ class ChatPageState extends State<ChatPage> {
                 cross_alignment: CrossAxisAlignment.start,
                 name: widget.name,
                 number: "+972 50-111-1111",
-                color_text_title: Colors.green,
+                color_text_title: Colors.blue,
                 color_background: Colors.white,
-                text: "Hello"),
+                text: widget.text),
             CustomCard(
                 cross_alignment: CrossAxisAlignment.start,
                 name: widget.name,
                 number: "+972 50-111-1111",
-                color_text_title: Colors.yellow,
+                color_text_title: Colors.blue,
                 color_background: Colors.white,
                 text: widget.text),
             CustomCard(
@@ -63,49 +63,49 @@ class ChatPageState extends State<ChatPage> {
                 cross_alignment: CrossAxisAlignment.start,
                 name: widget.name,
                 number: "+972 50-111-1111",
-                color_text_title: Colors.grey,
+                color_text_title: Colors.blue,
                 color_background: Colors.white,
                 text: widget.text),
             CustomCard(
                 cross_alignment: CrossAxisAlignment.start,
                 name: widget.name,
                 number: "+972 50-111-1111",
-                color_text_title: Colors.blueGrey,
+                color_text_title: Colors.blue,
                 color_background: Colors.white,
                 text: widget.text),
             CustomCard(
                 cross_alignment: CrossAxisAlignment.start,
                 name: widget.name,
                 number: "+972 50-111-1111",
-                color_text_title: Colors.lightGreenAccent,
+                color_text_title: Colors.blue,
                 color_background: Colors.white,
                 text: widget.text),
             CustomCard(
                 cross_alignment: CrossAxisAlignment.start,
                 name: widget.name,
                 number: "+972 50-111-1111",
-                color_text_title: Colors.redAccent,
+                color_text_title: Colors.blue,
                 color_background: Colors.white,
                 text: widget.text),
             CustomCard(
                 cross_alignment: CrossAxisAlignment.start,
                 name: widget.name,
                 number: "+972 50-111-1111",
-                color_text_title: Colors.brown,
+                color_text_title: Colors.blue,
                 color_background: Colors.white,
                 text: widget.text),
             CustomCard(
                 cross_alignment: CrossAxisAlignment.start,
                 name: widget.name,
                 number: "+972 50-111-1111",
-                color_text_title: Colors.cyanAccent,
+                color_text_title: Colors.blue,
                 color_background: Colors.white,
                 text: widget.text),
             CustomCard(
                 cross_alignment: CrossAxisAlignment.start,
                 name: widget.name,
                 number: "+972 50-111-1111",
-                color_text_title: Colors.lightBlueAccent,
+                color_text_title: Colors.blue,
                 color_background: Colors.white,
                 text: widget.text),
           ]))
@@ -150,17 +150,11 @@ class _CustomCardState extends State<CustomCard> {
                   padding: EdgeInsets.all(10),
                   child: Column(children: [
                     Row(children: <Widget>[
-                      Text(widget.name,
-                          style: TextStyle(
-                              color: widget.color_text_title,
-                              fontWeight: FontWeight.bold)),
+                      _text_chat(widget.name, widget.color_text_title),
                       SizedBox(
                         width: 20,
                       ),
-                      Text(widget.number,
-                          style: TextStyle(
-                              color: widget.color_text_title,
-                              fontWeight: FontWeight.bold))
+                      _text_chat(widget.number, widget.color_text_title)
                     ]),
                     SizedBox(
                       height: 15,
@@ -171,5 +165,10 @@ class _CustomCardState extends State<CustomCard> {
                             style: TextStyle(color: Colors.black)))
                   ])))
         ]));
+  }
+
+  _text_chat(String text, Color color) {
+    return Text(text,
+        style: TextStyle(color: color, fontWeight: FontWeight.bold));
   }
 }
