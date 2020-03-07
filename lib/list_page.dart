@@ -27,91 +27,91 @@ class ListPageState extends State<ListPage> {
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
               name: "Cristiano Ronaldo",
-              subtitle: "Hi, my name is Cristiano Ronaldo"),
+              subtitle: "Hi, my name is Cristiano Ronaldo..."),
           CustomListTile(
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
               name: "Lionel Messi",
-              subtitle: "Hi, my name is Lionel Messi"),
+              subtitle: "Hi, my name is Lionel Messi..."),
           CustomListTile(
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
               name: "Dani Carvajal",
-              subtitle: "Hi, my name is Dani Carvajal"),
+              subtitle: "Hi, my name is Dani Carvajal..."),
           CustomListTile(
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
               name: "Elior Cohen",
-              subtitle: "Hi, my name is Elior Cohen"),
+              subtitle: "Hi, my name is Elior Cohen..."),
           CustomListTile(
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
               name: "Sergio Busquets",
-              subtitle: "Hi, my name is Sergio Busquets"),
+              subtitle: "Hi, my name is Sergio Busquets..."),
           CustomListTile(
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
               name: "Sergio Ramos",
-              subtitle: "Hi, my name is Sergio Ramos"),
+              subtitle: "Hi, my name is Sergio Ramos..."),
           CustomListTile(
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
               name: "Jordi Alba",
-              subtitle: "Hi, my name is Jordi Alba"),
+              subtitle: "Hi, my name is Jordi Alba..."),
           CustomListTile(
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
               name: "Gerard Pique",
-              subtitle: "Hi, my name is Gerard Pique"),
+              subtitle: "Hi, my name is Gerard Pique..."),
           CustomListTile(
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
               name: "Luis Suarez",
-              subtitle: "Hi, my name is Luis Suarez"),
+              subtitle: "Hi, my name is Luis Suarez..."),
           CustomListTile(
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
               name: "Vinicius Junior",
-              subtitle: "Hi, my name is Vinicius Junior"),
+              subtitle: "Hi, my name is Vinicius Junior..."),
           CustomListTile(
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
               name: "Toni Kroos",
-              subtitle: "Hi, my name is Toni Kroos"),
+              subtitle: "Hi, my name is Toni Kroos..."),
           CustomListTile(
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
               name: "Thibaut Courtois",
-              subtitle: "Hi, my name is Thibaut Courtois"),
+              subtitle: "Hi, my name is Thibaut Courtois..."),
           CustomListTile(
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
               name: "Karim Benzema",
-              subtitle: "Hi, my name is Karim Benzema"),
+              subtitle: "Hi, my name is Karim Benzema..."),
           CustomListTile(
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
               name: "Gareth Bale",
-              subtitle: "Hi, my name is Gareth Bale"),
+              subtitle: "Hi, my name is Gareth Bale..."),
           CustomListTile(
               imagePath:
                   "https://cdn.vox-cdn.com/thumbor/Iy012aBHCHAESjEyc2KZWhweHaI=/0x0:4635x3090/1200x800/filters:focal(1928x400:2668x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66114445/1199341672.jpg.0.jpg",
               radius: 30,
               name: "Francisco Alarcon",
-              subtitle: "Hi, my name is Francisco Alarcon"),
+              subtitle: "Hi, my name is Francisco Alarcon..."),
         ]));
   }
 }
